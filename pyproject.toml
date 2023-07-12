@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "zik_discord"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 discord-py = "^2.3.1"
 
 
